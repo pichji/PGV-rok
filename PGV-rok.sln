@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGV-rok", "PGV-rok\PGV-rok.csproj", "{31B51CDA-8AE0-489C-B273-7085D6C7FFB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B51CDA-8AE0-489C-B273-7085D6C7FFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B51CDA-8AE0-489C-B273-7085D6C7FFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B51CDA-8AE0-489C-B273-7085D6C7FFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B51CDA-8AE0-489C-B273-7085D6C7FFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49DC20AA-3ED7-4387-ADF9-6C9824EFC2E5}
+	EndGlobalSection
+EndGlobal
